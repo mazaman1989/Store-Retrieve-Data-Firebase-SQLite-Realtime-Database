@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511508191612",
+    "project_id": "datamangeusingfirebasesqllite",
+    "storage_bucket": "datamangeusingfirebasesqllite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511508191612:android:3d4820c8aaaf06db746cf9",
+        "android_client_info": {
+          "package_name": "com.zamansoftwaresolutions.datamangeusingfirebasesqllite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511508191612-njk7adop8dhgbks56eh2git4jak3jovb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAI-wDf3hPBK34jXzp-4hoXKwceDWG1Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511508191612-njk7adop8dhgbks56eh2git4jak3jovb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
